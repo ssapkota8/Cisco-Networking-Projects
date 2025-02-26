@@ -5,7 +5,7 @@
 This section contains reports, network diagrams, and descriptions of various Cisco networking projects.
 
 📌 **Files in Documentation-Networking Folder:**  
-- 📄 [Project1b_ssapkota8.pdf]([Documentation-Networking/Project1b_ssapkota8.pdf](https://github.com/ssapkota8/Cisco-Networking-Projects/blob/main/Documentation-Networking%20and%20Cisco%20Projects/Project1b_ssapkota8.pdf))  
+- 📄 [Project1b_ssapkota8.pdf]([Documentation-Networking/Project1b_ssapkota8.pdf](https://github.com/ssapkota8/Cisco-Networking-Projects/blob/main/Documentation-Networking%20and%20Cisco%20Projects/Project1b_ssapkota8.pdf)  
 - 📄 [CSP450 Project 1a Report](https://github.com/ssapkota8/Cisco-Networking-Projects/blob/main/Documentation-Networking%20and%20Cisco%20Projects/ssapkota8_CSP450_Project1a.pdf)  
 
 🔗 **[Click here](https://github.com/ssapkota8/Cisco-Networking-Projects/blob/main/Documentation-Networking%20and%20Cisco%20Projects/README.md) for detailed documentation.**
