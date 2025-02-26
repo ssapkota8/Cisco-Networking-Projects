@@ -7,7 +7,7 @@ This folder contains Cisco Packet Tracer (`.pkt`) files for various networking l
 | File Name | Description | Link |
 |-----------|------------|------|
 | **csp450-project1b-SUDARSHAN.pkt** | Network design and configuration for CSP450 Project 1B. | [Download](csp450-project1b-SUDARSHAN.pkt) |
-| **csp450-project1a_Sudarshan.pkt** | Network topology and settings for CSP450 Project 1A. | [Download](csp450-project1a_Sudarshan.pkt) |
+| **csp450-project_1a_Sudarshan.pkt** | Network topology and settings for CSP450 Project 1A. | [Download](csp450-project_1a_Sudarshan.pkt) |
 
 ### 🛠️ How to Use These Files  
 1. **Download** the `.pkt` files by clicking on the links.  
