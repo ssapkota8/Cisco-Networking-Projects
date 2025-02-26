@@ -19,7 +19,7 @@ This section includes Cisco Packet Tracer `.pkt` files for different networking 
 | **File Name** | **Description** |
 |--------------|---------------|
 | [csp450-project1b-SUDARSHAN.pkt](Packet-Tracer-Labs/csp450-project1b-SUDARSHAN.pkt) | Project 1B network configuration |
-| [csp450-project1a_Sudarshan.pkt](Packet-Tracer-Labs/csp450-project1a_Sudarshan.pkt) | Project 1A network setup |
+| [csp450-project1a_Sudarshan.pkt](Packet-Tracer-Labs/csp450-project_1a_Sudarshan.pkt) | Project 1A network setup |
 
 🔗 **[Click here](Packet-Tracer-Labs/README.md) for detailed Packet Tracer Lab instructions.**
 
